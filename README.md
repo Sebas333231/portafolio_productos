@@ -8,5 +8,9 @@ PRODUCTO:
 
 ![image](https://user-images.githubusercontent.com/110652225/208942358-e1dc9b2a-8510-4e87-8882-197fe57329b1.png)
 
+CARRITO:
+![image](https://user-images.githubusercontent.com/110652225/208942814-fef296eb-be2c-4a8f-a3c0-9e8f99e12f1f.png)
+
+
 
 
