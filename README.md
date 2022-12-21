@@ -12,6 +12,8 @@ CARRITO:
 
 ![image](https://user-images.githubusercontent.com/110652225/208942814-fef296eb-be2c-4a8f-a3c0-9e8f99e12f1f.png)
 
+Para este proyecto no se utilizaron varias libreria, la unica fue cupertino_icons: ^1.0.2
+
 
 
 
